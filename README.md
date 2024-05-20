@@ -10,3 +10,5 @@ This project focuses on developing a custom Natural Language Processing (NLP) pi
 - **Entity Ruler**: Developed an entity ruler with special case handling to improve the model's accuracy in financial text analysis.
 - **Custom Component**: Implemented a custom spaCy component to remove unwanted entities, ensuring cleaner and more relevant data output.
 - **Visualization**: Leveraged spaCy's `displacy` for real-time visualization of named entities, providing clear insights into extracted financial entities.
+
+![image](https://github.com/aarjavjain2002/nlp-finance-project/assets/97541934/d2f9d71f-3890-4f25-876d-310edad68cb4)
